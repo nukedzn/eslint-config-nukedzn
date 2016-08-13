@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-nukedzn",
+  "version": "1.0.0",
+  "description": "nuked.zone's ESLint configs",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nukedzn/eslint-config-nukedzn.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Uditha Atukorala <ua@nuked.zone>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nukedzn/eslint-config-nukedzn/issues"
+  },
+  "homepage": "https://github.com/nukedzn/eslint-config-nukedzn#readme"
+}
