@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-nukedzn",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "nuked.zone's ESLint configs",
   "main": "index.js",
   "scripts": {},
