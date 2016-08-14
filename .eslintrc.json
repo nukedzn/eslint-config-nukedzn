@@ -6,7 +6,7 @@
   "extends": "eslint:recommended",
   "rules": {
     "arrow-parens": ["error", "always"],
-    "comma-dangle": ["error", "only-multiline"],
+    "comma-dangle": ["error", "always-multiline"],
     "brace-style": ["error", "1tbs", {
       "allowSingleLine": true
     }],
