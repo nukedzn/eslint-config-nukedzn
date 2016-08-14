@@ -37,6 +37,7 @@
     }],
     "no-var": ["error"],
     "object-curly-spacing": ["error", "always"],
+    "object-shorthand": ["error", "always"],
     "prefer-const": ["error"],
     "quotes": ["error", "single"],
     "semi": ["error", "always"],
