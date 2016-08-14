@@ -1,10 +1,9 @@
 {
   "name": "eslint-config-nukedzn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nuked.zone's ESLint configs",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nukedzn/eslint-config-nukedzn.git"
